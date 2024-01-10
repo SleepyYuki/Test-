@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Startseite</title>
+<style>
+ body {
+            background-color: #f8f4e6; 
+            color: #000000;
+            font-family: Pacifico, cursive; /* Beispiel: Schriftart */
+        }
+        h1 {
+            color: #8B4513; 
+        }
+img {
+            width: 900px; 
+            height: auto; 
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen auf Angies Hunderanch</h1>
+        <nav>
+            <ul>                
+                <li><a href="file:///C:/Users/weinz/Pictures/Angies%20Hunderanch/%C3%BCber%20uns.html">Über uns</a></li>
+                <li><a href="file:///C:/Users/weinz/Pictures/Angies%20Hunderanch/unsere%20hunde.html"> Zu den Hunden</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Willkommen!</h2>
+            <p>Dies ist die Startseite von Angies Hunderanch.</p>
+            <img src="https://tierheim-henstedt-ulzburg.de/wp-content/uploads/2020/12/P1410608-1-e1606914156395.jpg" alt="Bild Startseite">
+        </section>
+    </main>
+
+<title>Große Tabelle</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #b37f56;
+        }
+
+        td {
+            background-color: #94796f;
+
+
+        img {
+            width:270px;
+            height: auto;
+            margin-left: 70px; 
+        }
+    </style>
+
+
+    <h2>Die Sieger der Herzen</h2>
+<p> Die 10 Beliebtesten Hunderassen im Vergleich Deutschland Vs. Weltweit. </p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Deutschland</th>
+                <th>Weltweit</th>               
+            </tr>
+        </thead>
+        <tbody>          
+            <tr>
+                <td>
+                    1. Deutscher Schäferhund 
+                     <img src="https://img.fotocommunity.com/unsere-2-schaeferhunde-ec439b57-4480-4d22-9829-5a5d25962ffd.jpg?height=1080" >
+                </td>
+                <td>
+                    1. Labrador
+                    <img src="https://cdn.drhoelter.de/x/fit/1200/0/sm/0/plain/https://www.drhoelter.de/media/5e/e7/da/1623840142/gXq2Rv2HbTPb_drhoelter%20labrador%20retriever%20uebergewicht.jpeg.jpg" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    2. Dackel
+                    <img src="https://hunde-stories.de/wp-content/uploads/2021/08/drei-dackel.jpg" >
+                </td>
+                <td>
+                    2. Golden Retriever
+                    <img src="https://www.santevet.be/uploads/images/nl_BE/rassen/goldenretrieverracedechien.jpeg" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    3. Deutscher Drahthaar 
+                     <img src="https://www.hundeo.com/wp-content/uploads/2019/02/Deutsch-Drahthaar.jpg" >
+                </td>
+                <td>
+                    3. Deutscher Schäferhund 
+                     <img src="https://img.fotocommunity.com/unsere-2-schaeferhunde-ec439b57-4480-4d22-9829-5a5d25962ffd.jpg?height=1080" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    4. Labrador
+                    <img src="https://cdn.drhoelter.de/x/fit/1200/0/sm/0/plain/https://www.drhoelter.de/media/5e/e7/da/1623840142/gXq2Rv2HbTPb_drhoelter%20labrador%20retriever%20uebergewicht.jpeg.jpg" >
+                </td>
+                <td>
+                    4. Französische Bulldogge
+                    <img src="https://happyhunde.de/wp-content/uploads/2023/08/Franzoesische-Bulldogge-Zuechter.jpg" >
+                </td>
+            </tr>
+             <tr>
+                <td>
+                    5. Golden Retriever
+                    <img src="https://www.santevet.be/uploads/images/nl_BE/rassen/goldenretrieverracedechien.jpeg" >
+                </td>
+                <td>
+                    5. Pudel
+                    <img src="https://www.zooroyal.de/magazin/wp-content/uploads/2017/02/pudel-hunderassen-760x560.jpg" >
+                </td>
+            </tr>
+             <tr>
+                <td>
+                    6. Pudel
+                    <img src="https://www.zooroyal.de/magazin/wp-content/uploads/2017/02/pudel-hunderassen-760x560.jpg" >
+                </td>
+                <td>
+                    6. Dackel
+                    <img src="https://hunde-stories.de/wp-content/uploads/2021/08/drei-dackel.jpg" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    7. Rottweiler
+                     <img src="https://rottweiler-freunde.de/wp-content/uploads/2022/05/FB_IMG_1653754973782-1080x675.jpg" >
+                </td>
+                <td>
+                    7. Rottweiler
+                    <img src="https://rottweiler-freunde.de/wp-content/uploads/2022/05/FB_IMG_1653754973782-1080x675.jpg" >
+                </td>
+            </tr>
+             <tr>
+                <td>
+                    8. Deutscher Boxer
+                    <img src="https://www.futterhaus.de/fileadmin/user_upload/Deutsche-Boxer.jpg" >
+                </td>
+                <td>
+                    8. Yorkshire Terrier
+                    <img src="https://www.mein-haustier.de/wp-content/uploads/2018/03/shutterstock_547062616-1-1270x608.jpg" >
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    9. Deutsche Dogge
+                    <img src="https://welpenknigge.de/wp-content/uploads/2018/11/Eine-braune-und-eine-schwarz-weisse-Deutsche-Dogge-stehen-nebeneinander-auf-der-Weide.jpg" >
+                </td>
+                <td>
+                    9. Deutscher Kurzhaar
+                    <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s3deb55d0e31b5181/image/i839f1ab3148117a9/version/1624977850/image.jpg" >
+                </td>
+            </tr>
+             <tr>
+                <td>
+                    10. Cavalier King Charles Spaniel
+                    <img src="https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass.jpg" >
+                </td>
+                <td>
+                    10. Zwergspitz
+                    <img src="https://www.dasgesundetier.de/gfx/lexikon/pomeranian.jpg" >
+                </td>
+            </tr>
+        </tbody>
