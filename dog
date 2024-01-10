@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bei den Hunden</title>
+<style>
+ img {
+            width: 400px; 
+            height: auto; 
+        }
+ body {
+            background-color: #f8f4e6; 
+            color: #000000;
+            font-family: Pacifico, cursive; /* Beispiel: Schriftart */
+        }
+        h1 {
+            color: #8B4513; 
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Willkommen bei unseren Hunden!</h1>
+        <nav>
+            <!-- Verlinke zurück zur ersten Seite -->
+            <a href="file:///C:/Users/weinz/Pictures/Angies%20Hunderanch/angies%20ranch.html">Zurück zur Startseite</a>
+        </nav>
+    </header>
+
+    <!-- Hauptbereich -->
+    <main>
+        <section>
+            <h2>Unsere Hundeauswahl!</h2>
+            <p>Finden sie jetzt ihren neuen besten Freund fürs Leben! </p>
+<h2> Schäferhund </h2>
+<img src="https://images.saymedia-content.com/.image/t_share/MTk2NzIzMTQ2NzMxMTAzMjUw/11-dogs-like-german-shepherd.png">
+<p class="large-paragraph">
+Der Deutsche Schäferhund ist bekannt für seine Intelligenz, Loyalität und Vielseitigkeit.<br>
+Mit einem starken Schutzinstinkt ist er ein zuverlässiger Wächter und Familienhund.<br>
+Der Schäferhund ist eng mit seiner Familie verbunden und agiert liebevoll gegenüber Kindern.<br> 
+Sein ausgeglichenes Wesen macht ihn zu einem geschätzten Begleiter und einem der beliebtesten Hunderassen weltweit.<br>
+</p>
+<p> In folgenden Tierheimen können sie Schäferhunde oder Schäferhund Mischlinge vorfinden: </p>
+<li><a href="https://www.tierheim-mannheim.de/hunde/">Tierheim Mannheim</a></li>
+<li><a href="https://tierschutzverein-hd.de/TIER-VERMITTLUNG/index.php/;focus=STRATP_com_cm4all_wdn_Flatpress_3643559&path=&frame=STRATP_com_cm4all_wdn_Flatpress_3643559?x=cat:2">Tierheim Heidelberg</a></li>
+<li><a href="https://www.tierheim-weinheim.de/hunde">Tierheim Weinheim</a></li> 
+<li><a href="https://www.tierheim-ladeburg.de/texte/seite.php?id=25984">Tierheim Ladenburg</a></li>
+  
+<h2> Labrador </h2>
+<img src="https://www.zooplus.de/magazin/wp-content/uploads/2017/03/fotolia_25521417-768x512.jpg">  
+<p class="large-paragraph"> 
+Der Labrador Retriever ist für sein freundliches und ausgeglichenes Wesen bekannt.<br>
+Mit einer lebendigen Energie und unermüdlicher Freude am Spiel ist er ein ausgezeichneter Familienhund.<br>
+Seine hohe Intelligenz und Lernbereitschaft machen ihn zu einem idealen Begleiter für verschiedene Aufgaben, von der Familienfreundlichkeit bis hin zu Therapie- und Rettungseinsätzen.<br>
+Der Labrador ist nicht nur loyal und zuverlässig, sondern auch äußerst sozial und leicht trainierbar, was ihn zu einer der beliebtesten Hunderassen weltweit macht.<br>
+</p>
+<p> In folgenden Tierheimen können sie Labradore oder Labrador Mischlinge vorfinden: </p>  
+<li><a href="https://tierheim-sinsheim.de/zu-den-tieren/hunde">Tierheim Sinsheim</a></li>
+<li><a href="https://tierheim-ludwigshafen.com/project/sally/">Tierheim Ludwigshafen</a></li>
+<li><a href="https://www.tierschutzverein-schwetzingen.de/vermittlung/hunde/">Tierheim Schwetzingen</a></li>
+
+<h2> American Staffordshire Terrier </h2>
+<img src="https://www.shutterstock.com/image-photo/blue-american-staffordshire-terrier-green-600nw-2219586551.jpg">
+<p class="large-paragraph">  
+Der American Staffordshire Terrier ist bekannt für seine unerschütterliche Treue, Tapferkeit und seine freundliche Natur.<br> 
+Mit einem ausgeglichenen Temperament zeigt er sich oft liebevoll gegenüber seiner Familie und ist besonders kinderfreundlich.<br> 
+Dieser intelligente und wachsame Hund ist stolz, robust und zeigt eine bemerkenswerte Bereitschaft zur Zusammenarbeit.<br> 
+Ein gut erzogener und sozialisierter American Staffordshire Terrier kann ein liebevoller Familienbegleiter und ein zuverlässiger Beschützer sein.<br>
+</p>
+<p> Einen AmStaff oder Mischling können sie in folgenden Tierheimen finden: </p>
+<li><a href="https://www.tierheim-mannheim.de/hunde/">Tierheim Mannheim</a></li>
+<li><a href="https://tierschutzverein-hd.de/TIER-VERMITTLUNG/index.php/;focus=STRATP_com_cm4all_wdn_Flatpress_3643559&path=&frame=STRATP_com_cm4all_wdn_Flatpress_3643559?x=cat:2">Tierheim Heidelberg</a></li>
+<li><a href="https://tierheim-ludwigshafen.com/hunde/">Tierheim Ludwigshafen</a></li>
+<li><a href="https://www.tierheim-weinheim.de/hunde">Tierheim Weinheim</a></li>
+
+<h2> Kangal </h2>
+<img src="https://bilder4.n-tv.de/img/incoming/crop22410263/8971161029-cImg_1_1-w1200/91386850.jpg">
+<p class="large-paragraph"> 
+Der Kangal ist ein großer und stolzer Herdenschutzhund, der für seine Ruhe, Entschlossenheit und Wachsamkeit bekannt ist.<br>
+Dieser imposante Hund zeigt eine ausgeprägte Loyalität gegenüber seiner Familie und wird oft für seine Beschützerinstinkte geschätzt.<br>
+Mit einer starken Bindung zu seinen Menschen und einer klaren, intelligenten Natur ist der Kangal ein beeindruckender Begleiter und Wächter.<br>
+Eine angemessene Erziehung und Sozialisierung sind entscheidend, um das Beste aus seinem ausgeglichenen und respektvollen Wesen zu machen.<br>
+</p>
+<p> Der Kangal oder ein Kangal Mischling können sie in folgenden Tierheimen finden: </p>
+<li><a href="https://tierheim-ludwigshafen.com/hunde/">Tierheim Ludwigshafen</a></li>
+<li><a href="https://www.tierheim-mannheim.de/hunde/">Tierheim Mannheim</a></li>
+<li><a href="https://www.tierheim-weinheim.de/hunde">Tierheim Weinheim</a></li>
+
+<h2> Dobermann & Rottweiler </h2>
+<img src="https://hundundhaustier.de/wp-content/uploads/2023/09/PS-Hunde-Vergleich-Thumbnaisl-3.png.webp">
+<p class="large-paragraph">
+Der <strong>Dobermann</strong> ist ein eleganter und kraftvoller Hund mit einer furchtlosen Natur.<br>
+Diese Hunde sind für ihre Hingabe an ihre Familie und ihren starken Bindungswillen bekannt.<br>
+Obwohl oft als Wachhund eingesetzt, ist der Dobermann auch für seine Sensibilität gegenüber seinen Menschen und seinen Spieltrieb anerkannt.<br>
+<p class="large-paragraph"> 
+Der <strong>Rottweiler</strong> ist ein kraftvoller und selbstbewusster Hund mit einem ausgeglichenen Wesen.<br>
+Bekannt für seine Loyalität und Schutzinstinkte, zeigt der Rottweiler eine tiefe Hingabe gegenüber seiner Familie.<br>
+Trotz seines imposanten Erscheinungsbildes kann er sanftmütig und liebevoll sein, besonders gegenüber Kindern.<br>
+Diese intelligente Rasse ist leicht trainierbar und kann ein vertrauenswürdiger Begleiter sein, der sowohl als Familienhund als auch als zuverlässiger Wächter fungiert.<br>
+</p>
+<p> Einen Rottweiler oder Dobermann (o. Mischlinge) finden sie in folgenden Tierheimen: </p>
+<li><a href="https://tierheim-ludwigshafen.com/project/rocky/">Tierheim Ludwigshafen</a></li>
+<li><a href="https://tierschutzverein-hd.de/TIER-VERMITTLUNG/index.php/;focus=STRATP_com_cm4all_wdn_Flatpress_3643559&path=&frame=STRATP_com_cm4all_wdn_Flatpress_3643559?x=cat:2">Tierheim Heidelberg</a></li>
+<li><a href="https://www.tierheim-mannheim.de/hunde/">Tierheim Mannheim</a></li>
+
+<h2> Dogo Argentino </h2>
+<img src="https://cdn.britannica.com/51/236451-050-AA12E618/dogo-Argentino-dog.jpg">
+<p class="large-paragraph">
+Der Dogo Argentino ist ein imposanter und kraftvoller Hund mit einem starken und selbstbewussten Charakter.<br>
+Diese Rasse ist für ihre Loyalität gegenüber ihrer Familie bekannt und kann sehr schützend sein.<br> 
+Gleichzeitig ist der Dogo Argentino oft liebevoll und anhänglich zu seinen engen Bezugspersonen.<br>
+</p>
+<p> Einen Dogo Argentino oder Mischling können sie in folgenden Tierheimen finden: </p>
+<li><a href="https://tierheim-ludwigshafen.com/project/rocky/">Tierheim Ludwigshafen</a></li>
+<li><a href="https://tierschutzverein-hd.de/TIER-VERMITTLUNG/index.php/;focus=STRATP_com_cm4all_wdn_Flatpress_3643559&path=&frame=STRATP_com_cm4all_wdn_Flatpress_3643559?x=entry:entry211006-143202">Tierheim Heidelberg</a></li>
+
+<h2> Cane Corso </h2>
+<img src="https://magazin.wirliebenhunter.de/assets/images/Cane-Corso-III.jpg">
+<p class="large-paragraph">
+Der Cane Corso ist ein imposanter Molossertyp-Hund, der für seine Wachsamkeit, Intelligenz und ausgeglichene Natur bekannt ist.<br>
+Mit einer starken Bindung zu seiner Familie zeigt der Cane Corso oft eine tiefe Hingabe und Loyalität.<br>
+Diese Rasse ist in der Lage, liebevoll mit Kindern umzugehen und zeigt sich oft als sanftmütig und gehorsam gegenüber seinen engen Bezugspersonen.<br>
+</p>
+<p> Einen Cane Corso oder Mischling finden sie folgenden Tierheimen: </p>
+<li><a href="https://tierschutzverein-hd.de/TIER-VERMITTLUNG/index.php/;focus=STRATP_com_cm4all_wdn_Flatpress_3643559&path=&frame=STRATP_com_cm4all_wdn_Flatpress_3643559?x=cat:2">Tierheim Heidelberg</a></li>
+<li><a href="https://www.tierheim-mannheim.de/cain/">Tierheim Mannheim</a></li>
+
+      </section>
+    </main>
+</body>
+</html>
