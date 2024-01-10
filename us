@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zweite Seite</title>
+<style>
+ body {
+            background-color: #f8f4e6; 
+            color: #000000;
+            font-family: Pacifico, cursive; /* Beispiel: Schriftart */
+        }
+        h1 {
+            color: #8B4513; 
+        }
+
+        h2 {
+            color: #b08968; 
+        }
+h3 {
+            color: #d2b48c; 
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Willkommen auf der Seite über uns!</h1>
+        <nav>
+            <!-- Verlinke zurück zur ersten Seite -->
+            <a href="file:///C:/Users/weinz/Pictures/Angies%20Hunderanch/angies%20ranch.html">Zurück zur Startseite</a>
+        </nav>
+    </header>
+
+    <!-- Hauptbereich -->
+    <main>
+        <section>
+            <h2>Informationen über Uns!</h2>
+            <p>Hier finden sie allgemeine Informationen über uns.</p>
+<h4> Wie funktioniert unsere Website? </h4>
+ <p> Unsere Website wurde dafür programmiert, damit angehende Besitzer schneller und leichter ihren Hundefreund fürs Leben finden können. </p>
+ <p>   Sie haben eine Bestimmte Rasse im Kopf oder möchten sich einfach mal umschauen, dann sind sie hier genau richtig! </p>
+ <p> Sie sind ihrem Glück nur einen Klick entfernt, also schauen sie sich gerne unsere große Hundevielfalt an und finden sie ihren Hundepartner fürs leben! </p>
+<p> Denn auch Tierheim Hunde haben das recht glücklich zu werden und werden ihnen bis an ihr Lebensende dankbar sein, dass sie ihnen ein Zuhause geschenkt haben </p>
+
+        <h3> Kontaktinformationen </h3>
+            <p> Unsere schöne Hunde Ranch wird geleitet von Angela Weinzierl.               
+            Bei Fragen oder Anmerkungen wenden Sie sich bitte an uns:
+            </p>
+
+    <p>       
+        <strong>Email:</strong> angieshunderanch@gmail.com<br>
+        <strong>Telefon:</strong> +49 123 456 789<br>
+        <strong>Adresse:</strong> Tierliebstraße 444, 68549 Heidelberg
+    </p> 
+
+<p> <strong>Und zum Schluss noch ein schöner Spruch:</strong> </p>    
+<p style="color: #b8860b; font-weight: bold;">Das mir mein Hund das liebste sei,<br>
+sagst du oh Mensch ist Sünde,<br>
+doch er ist mir im Sturme treu,<br>
+der Mensch nicht mal im Winde.<br>
+</p>              
+<img src="https://www.deine-tierwelt.de/magazin/wp-content/uploads/sites/7/2022/05/hund-im-gras-1024x683.jpg"  
+       </section>
+    </main>
+</body>
+</html>
